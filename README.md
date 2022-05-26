@@ -24,3 +24,8 @@ The AI proposed by this Instructable is based on an existing one. There are seve
 For this project, the Micro Max chess program from [H.G. Muller](https://home.hccnet.nl/h.g.muller/max-src2.html) and ported for Arduino by [Diego Cueva](https://create.arduino.cc/projecthub/rom3/arduino-uno-micromax-chess-030d7c) was preferred. It is a very smart, efficient and it is particularly small (<2kB).
 
 The other main advantage is this program being an open source, so we can freely play with it, special THANKS to H.G. Muller & Diego Cueva.
+
+Here you can see the first test:
+
+https://user-images.githubusercontent.com/29107541/170461519-a2f489ec-e8df-4139-87ea-c10c257398e2.mp4
+
