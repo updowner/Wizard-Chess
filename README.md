@@ -8,4 +8,5 @@ The automated chess board is composed of an XY table with an electromagnet on th
 8x8 led matrix interface to show where is the pieces 
 - Programming Language : Arduino C/C++
 - Powering : 9V / 2A (2 Lithume battary)
+- 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/29107541/170455054-b75d02bb-857a-4295-84c1-5f220be638cf.gif)
