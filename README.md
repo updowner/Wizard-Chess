@@ -21,6 +21,6 @@ The magnetic sensor or Reed switch is composed of a hermetic glass envelope with
 
 The AI proposed by this Instructable is based on an existing one. There are several efficient AI chess programs available on the internet.
 
-For this project, the Micro Max chess program from H.G. Muller and ported for Arduino by [Diego Cueva]{https://create.arduino.cc/projecthub/rom3/arduino-uno-micromax-chess-030d7c} was preferred. It is a very smart, efficient and it is particularly small (<2kB).
+For this project, the Micro Max chess program from H.G. Muller and ported for Arduino by [Diego Cueva](https://create.arduino.cc/projecthub/rom3/arduino-uno-micromax-chess-030d7c) was preferred. It is a very smart, efficient and it is particularly small (<2kB).
 
 The other main advantage is this program being an open source, so we can freely play with it, special THANKS to H.G. Muller & Diego Cueva.
