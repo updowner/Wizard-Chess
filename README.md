@@ -1,5 +1,5 @@
 # Wizard-Chess
-inspired by Harry potter Chess
+inspired by Harry potter Chess.
 I like playing chess game and up to now I played a lot on the Internet or with different Apps. But I was frustrated to pass all this time behind a screen.
 
 I started to look into the electronic chess games, but I rapidly realize that the best choice was to do it by myself. I took time to learn about AI, game engine, chess pieces detection to finally design my own chess game.
