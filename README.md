@@ -17,3 +17,4 @@ The chess pieces localization is essential. The objective is to inform the softw
 Magnetic sensors are placed below each chess piece square. So, when the magnet of the chess piece is above the sensor, the sensor will be activated. By comparing the activated sensors before and after the move, the chess piece displacement can be determined.
 
 The magnetic sensor or Reed switch is composed of a hermetic glass envelope with two flexible metal contacts inside. The contact is normally open when there is no magnetic field and close if a magnetic field is present.
+![Magnetic-reed-switch-Above-Closed-and-open-reed-switch-in-response-to-magnet-placement](https://user-images.githubusercontent.com/29107541/170457158-c234c664-45f5-4af0-bf44-d37fe7fa21c8.png)
