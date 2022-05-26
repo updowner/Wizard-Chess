@@ -31,4 +31,7 @@ https://user-images.githubusercontent.com/29107541/170461519-a2f489ec-e8df-4139-
 
 I faced a problem that some time the magnet sensor didn't recognize the pieces and you have to move it  just a little bit
 I think this problem can be solved by replacing the magnet sensor (reed switch) with hall effect sensor this sensor has better sensivty but I solve it by puting 8X8 LED MAX7219 DOT MATRIX DISPLAY to show the pieces localization so you can know if the piece was recognized or not.And the final result was just like that :
-https://drive.google.com/file/d/1WoGAkA5_YMZuuCzVBomNj0T-kekg0Wjj/view?usp=sharing
+
+https://user-images.githubusercontent.com/29107541/170465487-c5e6732c-6b59-4e03-8daa-4fda65b80470.mov
+
+
